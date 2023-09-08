@@ -1,0 +1,5 @@
+Vector based RPN calculator set up to be linked into python.
+
+Make builds a .so library file
+
+
